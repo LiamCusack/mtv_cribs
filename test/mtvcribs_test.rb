@@ -63,5 +63,3 @@ class ApartmentTest < Minitest::Test
     assert_equal renter1, unit1.renter
   end
 end
-
-screw it. stuck too long on a ridiculously dumb error in the beginning. no chance of finishing.
