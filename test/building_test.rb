@@ -64,7 +64,3 @@ class BuildingTest < Minitest::Test
     assert_equal [], building.rented_units
   end
 end
-
-#screw it. stuck too long on a ridiculously dumb error in the beginning. no chance of finishing.
-#feels like we were not taught some of this. Waiting for the review to see where I should direct
-#my frustration.
